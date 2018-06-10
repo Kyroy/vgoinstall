@@ -1,4 +1,4 @@
-package main // import github.com/Kyroy/vgoinstall
+package main // import github.com/Kyroy/vgoinstall/v2
 
 import "fmt"
 
