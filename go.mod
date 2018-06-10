@@ -1,1 +1,1 @@
-module vgoinstall/v2
+module github.com/Kyroy/vgoinstall/v2
